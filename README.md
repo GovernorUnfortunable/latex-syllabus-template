@@ -5,3 +5,4 @@ Estoy utilizando este template como base para preparar el detalle de un par de c
 Agrego:
   - Posibilidad de incorporar enlaces urls
   - Posilibidad de definir colores con RGB
+  - Posibilidad de fijar el interlineado (está fijado en 1,1 líneas)
